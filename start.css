@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(1, 66, 1);
+}
+
+h1{
+    font-size: 4em;
+    margin-left: 30vw;
+    text-shadow: 1px 1px 1px white;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+}
